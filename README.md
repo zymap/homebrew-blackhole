@@ -15,8 +15,6 @@ brew install https://raw.githubusercontent.com/streamnative/homebrew-blackhole/m
 
 The StreamNative Blackhole holds all homebrew installation scripts for all tools created by StreamNative.
 
-Tools:
-
 | Tool | Installation |
 | ---- | ------------ |
 | [Pulsarctl](https://github.com/streamnative/pulsarctl) | brew install pulsarctl |
